@@ -1,4 +1,4 @@
-# No Code API Development with SaaS Integration
+# Integreatly - No Code API Development with SaaS Integration
 
 This walkthrough demonstrates a no-code approach to building and deploying a
 container-native RESTful API based on an OpenAPI Specification. 
